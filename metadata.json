@@ -1,0 +1,6 @@
+{
+  "name": "Creative Portfolio",
+  "description": "A modern, premium creative portfolio website for designers, illustrators, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
